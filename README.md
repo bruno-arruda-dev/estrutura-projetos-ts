@@ -1,6 +1,6 @@
 # Estrutura de Projetos TypeScript (Frontend e Backend)
 
-Este repositório contém um guia de estrutura modular por domínio (feature-based), aplicável a projetos em React, Next.js, Node e NestJS.
+> 🏗️ Esta estrutura segue o padrão **Modular por Domínio (Feature-based)**, onde cada funcionalidade do sistema (ex: produto, usuário) possui seus próprios componentes, serviços, controllers, etc., agrupados em uma única pasta. Isso facilita a escalabilidade, legibilidade e manutenibilidade de projetos grandes.
 
 ---
 
